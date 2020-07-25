@@ -1,0 +1,12 @@
+a {
+}
+
+#home {
+  position: absolute;
+  top: 3px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
